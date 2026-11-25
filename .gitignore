@@ -1,0 +1,9 @@
+/target
+/.venv
+/media
+/jobs
+*.db*
+*.log
+qr.txt
+paircode.txt
+__pycache__/
